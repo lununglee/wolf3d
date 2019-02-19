@@ -1,0 +1,8 @@
+wolf
+minilibx/*.o
+minilibx/*.a
+libft/*.o
+libft/*.a
+wolf.dSYM
+objs
+.vscode
